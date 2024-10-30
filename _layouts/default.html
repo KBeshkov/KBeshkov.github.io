@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+
+  {% include head.html %}
+  <body>
+
+    {% include header.html %}
+    <div class="profile">
+      <img src="{{ '/images/photo.png' | relative_url }}" alt="Your Name" style="width: 175px; border-radius: 40%; display: block;">
+    </div>
+
+    <div class="container-fluid">
+      <div class="row">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
