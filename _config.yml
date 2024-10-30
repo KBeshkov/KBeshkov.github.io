@@ -41,7 +41,9 @@ location: >
 contact: >
   <a href="mailto:kosio@neuro.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> Email me</a> <br/>
   <a href="https://github.com/KBeshkov"><i class="fa fa-github fa-1x"></i> Code me</a> </br>
-  <a href="https://www.linkedin.com/in/kosio-beshkov-b520b9201/"><i class="fa fa-linkedin fa-1x"></i> Linkedin me</a>
+  <a href="https://www.linkedin.com/in/kosio-beshkov-b520b9201/"><i class="fa fa-linkedin fa-1x"></i> Linkedin me</a></br>
+  <a href="https://scholar.google.com/citations?user=tkiM70QAAAAJ/"><i class="fa fa-graduation-cap" aria-hidden="true"></i> Cite me</a>
+
 
 # Pages shown in navbar
 nav_pages:
@@ -81,29 +83,6 @@ remote_theme: "jekyll/minima"
 
 plugins:
   - jekyll-feed
-
-plugins: ["jekyll/scholar"]
-scholar:
-  last_name: Beshkov
-  first_name: [Kosio]
-
-  style: citesty
-  locale: en
-
-  source: /assets/
-  bibliography: ref.bib
-  bibliography_template: bibtemplate
-  sort_by: year, month
-  order: ascending
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
-
-  query: "@*"
 
 
 # Exclude from processing.
