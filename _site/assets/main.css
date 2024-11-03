@@ -4847,7 +4847,7 @@ input[type="submit"].btn-block, input[type="reset"].btn-block, input[type="butto
 
 .navbar-expand .navbar-nav .dropdown-menu { position: absolute; }
 
-.navbar-expand .navbar-nav .nav-link { padding-right: 0.5rem; padding-left: 0.5rem; }
+.navbar-expand .navbar-nav .nav-link { padding-right: 2.5rem; padding-left: 0.5rem; }
 
 .navbar-expand > .container, .navbar-expand > .container-fluid, .navbar-expand > .container-sm, .navbar-expand > .container-md, .navbar-expand > .container-lg, .navbar-expand > .container-xl, .navbar-expand > .container-xxl, .navbar-expand > .container-sm, .navbar-expand > .container-md, .navbar-expand > .container-lg, .navbar-expand > .container-xl { -ms-flex-wrap: nowrap; flex-wrap: nowrap; }
 
@@ -6733,3 +6733,7 @@ img { border-radius: 5%; }
 .embed-container-leuk { height: 112px; background-image: url("http://localhost:4000/images/thumbs/spleen.jpg"); }
 
 .MathJax_ref { fill: #00bc8c !important; }
+
+.profile { margin: 0 auto; padding: 0; text-align: center; }
+
+.profile img { margin-bottom: 0; }

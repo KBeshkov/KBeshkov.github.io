@@ -1,0 +1,9 @@
+.profile {
+    margin: 0 auto; // Center the image if needed
+    padding: 0; // Remove padding around the image container if Bootstrap adds any
+    text-align: center; // Center-aligns the image within its container
+}
+
+.profile img {
+    margin-bottom: 0; // Removes bottom margin to minimize gap
+}
