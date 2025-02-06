@@ -45,5 +45,7 @@ Cells as a Conformal Isometric Map of Space.” *bioRxiv*.
 the Topological Classification of Neural Representations.” *arXiv
 Preprint arXiv:2404.19710*.
 
+**Kosio Beshkov** 2024. "A Relative Homology Theory of Representation in
+Neural Networks." *arXiv Preprint arXiv:2502.01360*
 
 
