@@ -1,3 +1,6 @@
+Beshkov, Kosio 2024. "A Relative Homology Theory of Representation in
+Neural Networks." *arXiv Preprint arXiv:2502.01360*
+
 Beshkov, Kosio, and Gaute T Einevoll. 2024. “A Rank Decomposition for
 the Topological Classification of Neural Representations.” *arXiv
 Preprint arXiv:2404.19710*.
@@ -23,3 +26,5 @@ Verhellen, Jonas, Kosio Beshkov, Sebastian Amundsen, Torbjørn V Ness,
 and Gaute T Einevoll. 2024. “Multitask Learning of a
 Biophysically-Detailed Neuron Model.” *PLOS Computational Biology* 20
 (7).
+
+

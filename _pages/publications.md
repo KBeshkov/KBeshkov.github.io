@@ -29,17 +29,13 @@ and Gaute T Einevoll. 2024. “Multitask Learning of a
 Biophysically-Detailed Neuron Model.” *PLOS Computational Biology* 20
 (7).
 
+Vemund S Schøyen, **Kosio Beshkov**, Markus B Pettersen, Erik Hermansen, Konstantin Holzhausen, Anders Malthe-Sørenssen, Marianne Fyhn & Mikkel E. Lepperød. 2025. "Hexagons all the way down: Grid cells as a conformal isometric map of space." *PLOS Computational Biology*, 21(2)
 
 ### Preprints
 
 **Kosio Beshkov**, Jonas Verhellen, and Mikkel Elle Lepperød. 2022.
 “Isometric Representations in Neural Networks Improve Robustness.”
 *arXiv Preprint arXiv:2211.01236*.
-
-Vemund Sigmundson Schøyen, **Kosio Beshkov**, Markus Borud Pettersen , Erik
-Hermansen, Konstantin Holzhausen, Anders Malthe-Sørenssen, Marianne
-Fyhn, and Mikkel Elle Lepperød. 2024. “Hexagons All the Way down: Grid
-Cells as a Conformal Isometric Map of Space.” *bioRxiv*.
 
 **Kosio Beshkov**, and Gaute T Einevoll. 2024. “A Rank Decomposition for
 the Topological Classification of Neural Representations.” *arXiv

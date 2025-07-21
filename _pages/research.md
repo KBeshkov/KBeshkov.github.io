@@ -31,7 +31,6 @@ iframe {
 </style>
 
 ## Research <br><br>
-<img src='/images/image.gif'>
 
 
 #### Theory of Deep Neural Networks through polyhedral decompositions and homology
